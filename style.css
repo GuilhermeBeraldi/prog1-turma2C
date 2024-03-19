@@ -18,3 +18,8 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.Sobre_escola{
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: white;
+    display: flex;
+}
