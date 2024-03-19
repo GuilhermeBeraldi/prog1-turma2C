@@ -9,3 +9,6 @@
 .cabeçalho_imagem{
     width: 10%;
 }
+.cabeçalho_lista{
+    display: inline-block;
+}
