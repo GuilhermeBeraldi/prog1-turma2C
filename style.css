@@ -39,6 +39,10 @@
 .sessao_professores{
     padding: 24px 0;
 }
+.div_colunas_sessao_professores{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
 .professor_imagem{
     width: 120px;
 }
@@ -49,4 +53,12 @@
 .div_professores_icones{
     width: 24px;
     padding: 4px 8px;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape_imagem{
+    height: 60px;
+    padding: 12px 0;
 }
